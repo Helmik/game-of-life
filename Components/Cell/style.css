@@ -1,0 +1,13 @@
+.app-cell {
+    padding: 5px;
+    display: table-cell;
+    border: 1px solid #fff;
+}
+
+.app-cell.live {
+    background-color: #fff;
+}
+
+.app-cell.dead {
+    background-color: #222;
+}
